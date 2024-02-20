@@ -9,3 +9,8 @@ public:
 	string author;
 	string count;
 };
+
+
+int main() {
+	
+}
